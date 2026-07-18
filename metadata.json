@@ -1,0 +1,6 @@
+{
+  "name": "Dentis Company",
+  "description": "Modern premium responsive website for Dentis Company dental clinic, featuring interactive 3D treatment searches, drag-to-compare before/after smile sliders, and an advanced multi-step appointment booking engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
